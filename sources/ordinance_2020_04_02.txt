@@ -1,20 +1,26 @@
-Verordnung über erforderliche Maßnahmen zur Eindämmung der Ausbreitung des neuartigen Coronavirus SARS-CoV-2 in Berlin (SARS-CoV-2-Eindämmungsmaßnahmenverordnung – SARS-CoV-2-EindmaßnV)
-Vom 22. März 2020 einschließlich der Berichtigung vom 24. März 2020
+Verordnung zur Änderung der Verordnung über erforderliche Maßnahmen zur Eindämmung der Ausbreitung des neuartigen Coronavirus SARS-CoV-2 in Berlin (SARS-CoV-2-Eindämmungsmaßnahmenverordnung – SARS-CoV-2-EindmaßnV)
 
-Aufgrund des § 32 Abs. 1 des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045), das zuletzt durch Artikel 1 des Gesetzes vom 10. Februar 2020 (BGBl. I S. 148) geändert worden ist, wird verordnet:
+Vom 2. April 2020
+
+Aufgrund des § 32 Abs. 1 des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045), das zuletzt durch Artikel 3 des Gesetzes vom 27. März 2020 (BGBl. I S. 587) geändert worden ist, verordnet der Senat:
+
+Artikel 1
+Änderung der SARS-CoV-2-Eindämmungsmaßnahmenverordnung
+
+Die SARS-CoV-2-Eindämmungsmaßnahmenverordnung vom 22. März 2020, verkündet am 22. März 2020 nach § 2 Absatz 1 des Gesetzes über die Verkündung von Gesetzen und Rechtsverordnungen vom 29. Januar 1953 (GVBl. S. 106), das zuletzt durch Gesetz vom 9. November 1995 (GVBl. S. 764) geändert worden ist, berichtigt am 24. März 2020 (GVBl. S. 224), wird wie folgt neu gefasst:
 
 1. Teil
 Bestimmungen für Veranstaltungen und Einrichtungen des gesellschaftlichen Lebens
 
 § 1 Veranstaltungen, Versammlungen, Zusammenkünfte und Ansammlungen
-(1) Öffentliche und nichtöffentliche Veranstaltungen, Versammlungen,Zusammenkünfte und Ansammlungen dürfen nicht stattfinden.
+(1) Öffentliche und nichtöffentliche Veranstaltungen, Versammlungen, Zusammenkünfte und Ansammlungen dürfen nicht stattfinden.
 (2) Vom Verbot des Absatzes 1 ausgenommen sind Veranstaltungen und Zusammenkünfte, einschließlich Sitzungen des Deutschen Bundestages und seiner Ausschüsse, des Bundesrates und seiner Ausschüsse, des Abgeordnetenhauses und seiner Ausschüsse, der Bundesregierung, des Senats von Berlin, des Verfassungsgerichtshofes von Berlin, der Bezirksverordnetenversammlungen und ihrer Ausschüsse sowie der Auslandsvertretungen, der Gerichte, der Gremien und Behörden von Bund und Ländern sowie anderer Stellen und Einrichtungen, die öffentlich-rechtliche Aufgaben wahrnehmen.
-(3) Ebenso ausgenommen sind Veranstaltungen und Zusammenkünfte, die der Aufrechterhaltung der öffentlichen Sicherheit und Ordnung, der öffentlich-rechtlichen Leistungserbringung, der Versorgung und der Gesundheitsfürsorge der Bevölkerung, der Aufrechterhaltung des Betriebs von Wirtschaftsunternehmen oder der Erfüllung von personalvertretungsrechtlichen Aufgaben dienen.
+(3) Ebenso ausgenommen sind Veranstaltungen und Zusammenkünfte, die der Aufrechterhaltung der öffentlichen Sicherheit und Ordnung, der öffentlich-rechtlichen Leistungserbringung, der Versorgung und der Gesundheitsfürsorge der Bevölkerung, der Aufrechterhaltung des Betriebs von Wirtschaftsunternehmen, der Erfüllung von personalvertretungsrechtlichen Aufgaben oder der Arbeit von Betriebsräten dienen.
 (4) Nicht erfasst von dem Verbot des Absatzes 1 ist der außerhäusliche Aufenthalt mehrerer Personen im Sinne von § 14 Absatz 3 Buchstabe i. Ausgenommen vom Verbot von Absatz 1 sind zudem Veranstaltungen und Zusammenkünfte im privaten oder familiären Bereich von bis zu 10 Personen, sofern diese aus zwingenden Gründen erforderlich sind.
 Hiervon erfasst sind insbesondere die Begleitung Sterbender und Trauerfeiern.
 (5) Unvermeidbare Zusammenkünfte und Ansammlungen anlässlich der nach dieser Verordnung zugelassenen Tätigkeiten, insbesondere bei der Nutzung des öffentlichen Personennahverkehrs, sind ebenfalls vom Verbot des Absatzes 1 ausgenommen.
-(6) Bei den nach Absatz 3 und Absatz 4 Satz 2 vom Verbot ausgenommenen Veranstaltungen und Zusammenkünften sind die anwesenden Personen in einer Anwesenheitsliste zu erfassen, die mindestens die folgenden Angaben enthalten muss: Vor- und Familienname, vollständige Anschrift und Telefonnummer.
-Die Anwesenheitsliste ist für die Dauer von vier Wochen nach Ende der Veranstaltung aufzubewahren und der zuständigen Behörde auf Verlangen vollständig auszuhändigen.
+(6) Bei den nach Absatz 4 vom Verbot ausgenommenen Veranstaltungen und Zusammenkünften sind die anwesenden Personen in einer Anwesenheitsliste zu erfassen, die mindestens die folgenden Angaben enthalten muss: Vor- und Familienname, vollständige Anschrift und Telefonnummer.
+Die Anwesenheitsliste ist für die Dauer von vier Wochen nach Ende der Veranstaltung aufzubewahren und der zuständigen Behörde auf Verlangen vollständig auszuhändigen
 (7) Für Versammlungen unter freiem Himmel von bis zu 20 Teilnehmenden kann die Versammlungsbehörde in besonders gelagerten Einzelfällen auf Antrag Ausnahmen vom Verbot des Absatz 1 zulassen, sofern dies im Einzelfall aus infektionsschutzrechtlicher Sicht vertretbar ist.
 Das zuständige Gesundheitsamt ist fachlich an der Entscheidung nach Satz 1 zu beteiligen.
 
@@ -23,28 +29,32 @@ Das zuständige Gesundheitsamt ist fachlich an der Entscheidung nach Satz 1 zu b
 (2) Vergnügungsstätten im Sinne der Baunutzungsverordnung in der Fassung der Bekanntmachung vom 21. November 2017 (BGBl. I S. 3786) dürfen nicht für den Publikumsverkehr geöffnet werden.
 (3) Kinos, Theater, Konzerthäuser, Museen und ähnliche Bildungseinrichtungen in öffentlicher und privater Trägerschaft dürfen nicht für den Publikumsverkehr geöffnet werden.
 (4) Prostitutionsgewerbe im Sinne des Prostituiertenschutzgesetzes vom 21. Oktober 2016 (BGBl. I S. 2372), das durch Artikel 57 des Gesetzes vom 20. November 2019 (BGBl. I S. 1626) geändert worden ist, dürfen weder für den Publikumsverkehr geöffnet werden, noch ihre Dienste außerhalb ihrer Betriebsstätte erbringen.
+Die Erbringung sexueller Dienstleistungen mit Körperkontakt ist untersagt.
 (5) Dienstleistungsgewerbe im Bereich der Körperpflege wie Friseure, Kosmetikstudios, Massagepraxen, Tattoo-Studios und ähnliche Betriebe dürfen weder für den Publikumsverkehr geöffnet werden noch ihre Dienste anbieten.
 Das gilt nicht für medizinisch notwendige Behandlungen.
+(6) Gewerbliche Ausflugs- und Stadtrundfahrten dürfen nicht stattfinden.
 
-§ 3 Gaststätten und Hotels im Sinne des Gaststättengesetzes
-(1) Gaststätten in der Fassung der Bekanntmachung vom 20. November 1998 (BGBl. I S. 3418), das zuletzt durch Artikel 14 des Gesetzes vom 10. März 2017 (BGBl. I S. 420) geändert worden ist, inklusive Shisha-Bars, dürfen nicht für den Publikumsverkehr geöffnet werden.
+§ 3 Gaststätten und Hotels
+(1) Gaststätten im Sinne des Gaststättengesetzes in der Fassung der Bekanntmachung vom 20. November 1998 (BGBl. I S. 3418), das zuletzt durch Artikel 14 des Gesetzes vom 10. März 2017 (BGBl. I S. 420) geändert worden ist, inklusive Shisha-Bars, dürfen nicht für den Publikumsverkehr geöffnet werden.
 Sie dürfen Speisen und Getränke zur Abholung oder zur Lieferung anbieten.
-Für die Abholung, auch durch Lieferdienste, sind geeignete Vorkehrung zur Hygiene, zur Steuerung des Zutritts und zur Vermeidung von Warteschlangen zu treffen.
-(2) Hotels und andere Beherbergungsbetriebe dürfen keine touristischen Übernachtungen anbieten.
+Für die Abholung, auch durch Lieferdienste, sind geeignete Vorkehrungen zur Hygiene, zur Steuerung des Zutritts und zur Sicherung des Mindestabstands von 1,5 Metern zu anderen Personen bei Warteschlangen zu treffen.
+(2) Hotels und andere Beherbergungsbetriebe sowie Betreiber von Ferienwohnungen dürfen keine touristischen Übernachtungen anbieten.
+(3) Kantinen für Betriebsangehörige sowie für Angehörige von Bundeswehr und Polizei dürfen nur betrieben werden, wenn geeignete Vorkehrungen zur Hygiene, zur Steuerung des Zutritts und zur Sicherung des Mindestabstandes von 1,5 Metern zu anderen Personen getroffen werden.
 
 § 3a Einzelhandel
 (1) Verkaufsstellen im Sinne des Berliner Ladenöffnungsgesetzes vom 14. November 2006 (GVBl. S. 1045), das zuletzt durch das Gesetz vom 13. Oktober 2010 (GVBl. S. 467) geändert worden ist, dürfen nicht geöffnet werden.
-(2) Ausgenommen vom Verbot nach Absatz 1 ist der Einzelhandel für Lebensmittel und Getränke einschließlich Spätverkaufsstellen, Abhol- und Lieferdienste, Wochenmärkte mit Beschränkung auf die für den Einzelhandel in dieser Verordnung zugelassenen Sortimente, Apotheken, Einrichtungen mit Sanitätsbedarf sowie zum Erwerb von Hör- und Sehhilfen, Drogerien, Tankstellen, Waschsalons, der Zeitungsverkauf und Buchhandel, Einzelhandel für Bau-, Gartenbau- und Tierbedarf, Fahrradgeschäfte, Handwerk und Handwerkerbedarf und Großhandel.
-(3) Bei der Öffnung der in Absatz 2 genannten Einrichtungen sind geeignete Vorkehrung zur Hygiene, zur Steuerung des Zutritts und zur Vermeidung von Warteschlangen zu treffen.
+(2) Ausgenommen vom Verbot nach Absatz 1 ist der Einzelhandel für Lebensmittel und Getränke einschließlich Spätverkaufsstellen, Abhol- und Lieferdienste, Wochenmärkte mit Beschränkung auf die für den Einzelhandel in dieser Verordnung zugelassenen Sortimente, Apotheken, Einrichtungen mit Sanitätsbedarf sowie zum Erwerb von Hör- und Sehhilfen, Drogerien, Tankstellen, Waschsalons, Reinigungen, der Zeitungsverkauf und Buchhandel, Einzelhandel für Bau-, Gartenbau- und Tierbedarf, Fahrradgeschäfte, Handwerk und Handwerkerbedarf und Großhandel.
+(3) Bei der Öffnung der in Absatz 2 genannten Einrichtungen sind geeignete Vorkehrungen zur Hygiene, zur Steuerung des Zutritts und zur Sicherung des Mindestabstands von 1,5 Metern zu anderen Personen bei Warteschlangen zu treffen
 
 § 4 Badeanstalten, Sportstätten und Sportbetrieb
-(1) Der Sportbetrieb auf und in allen öffentlichen und privaten Sportanlagen, Schwimmbädern, Fitnessstudios, Saunen, Solarien u.ä. wird untersagt.
+(1) Der Betrieb auf und in allen öffentlichen und privaten Sportanlagen, Schwimmbädern, Fitnessstudios, Saunen, Dampfbädern, Sonnenstudios, Solarien u.ä. wird untersagt.
 (2) Ausnahmen von der Untersagung nach Absatz 1 können in besonders begründeten Einzelfällen ausschließlich durch schriftliche Genehmigung der für Sport zuständigen Senatsverwaltung zugelassen werden.
 Dies gilt insbesondere für
-a) den Sportbetrieb von Kaderathleten in Vorbereitung auf die Olympischen und Paralympischen Spiele 2020, wenn die beantragten Trainingseinheiten für die Vorbereitung zwingend erforderlich sind,
-b) den Sportbetrieb mit Tieren, soweit dieser im Hinblick auf das Tierwohl zwingend erforderlich ist.
+a) den Trainingsbetrieb von Kaderathletinnen und -athleten, u.a. in Vorbereitung auf nationale und internationale Wettkämpfe, wenn die beantragten Trainingseinheiten für die Vorbereitung zwingend erforderlich sind,
+b) den Sportbetrieb mit Tieren, soweit dieser im Hinblick auf das Tierwohl zwingend erforderlich ist
+c) den Trainingsbetrieb von Bundesligateams und vergleichbaren Teams und Einzelsportlern und -sportlerinnen.
 (3) Soweit für die Vergabe der öffentlichen Sportanlage vor Inkrafttreten dieser Verordnung eine andere Vergabestelle des Landes Berlin zuständig war, wird die für Sport zuständigen Senatsverwaltung diese bei der Entscheidung über eine Ausnahme beteiligen.
-
+
 2. Teil
 Bestimmungen für Krankenhäuser und Pflegeheime, für Leistungen der Eingliederungshilfe sowie für Leistungen nach dem 8. Kapitel des SGB XII und ähnliche Einrichtungen
 
@@ -58,15 +68,14 @@ Die gleiche Pflicht trifft die übrigen Krankenhäuser ab dem 25. März 2020.
 (1) Patientinnen und Patienten in Krankenhäusern dürfen vorbehaltlich des Absatzes 2 keinen Besuch empfangen.
 (2) Kinder unter 16 Jahren und Schwerstkranke dürfen einmal am Tag von einer Person für eine Stunde Besuch empfangen, allerdings nicht von Menschen mit Atemwegsinfektionen.
 (3) Bewohnerinnen und Bewohner von Pflegeheimen und besonderen Wohnformen im Sinne des Neunten Buchs Sozialgesetzbuch vom 23. Dezember 2016 (BGBl. I S. 3234), das zuletzt durch Artikel 8 des Gesetzes vom 14. Dezember 2019 (BGBl. I S. 2789) geändert worden ist, dürfen einmal am Tag von einer Person für eine Stunde Besuch empfangen, allerdings nicht von Kindern unter 16 Jahren oder von Menschen mit Atemwegsinfektionen.
-(4) Patientinnen und Patienten in Einrichtungen der Sterbebegleitung sowie Bewohnerinnen und Bewohner von solchen Einrichtungen und Schwerstkranke und Sterbende unterliegen keinen Beschränkungen für den Empfang von Besuch.
+(4) Patientinnen und Patienten in Einrichtungen der Sterbebegleitung sowie Bewohnerinnen und Bewohner von solchen Einrichtungen und Schwerstkranke und Sterbende unterliegen keinen Beschränkungen für den Empfang von Besuch.
 (5) Gebärende dürfen sich zur Geburt in einem Krankenhaus von einer Person eigener Wahl begleiten lassen.
 Neugeborene und deren Mütter dürfen einmal am Tag von einer Person für eine Stunde Besuch empfangen, allerdings nicht von Kindern unter 16 Jahren, ausgenommen Geschwister des Neugeborenen, oder von Menschen mit Atemwegsinfektionen.
 (6) Besuche von mit der Seelsorge betrauten Personen sind, gegebenenfalls unter Auferlegung erforderlicher Verhaltensmaßregeln, stets zulässig.
 
 § 7 Einrichtungen der Tages- und Nachtpflege
-(1) Einrichtungen der Tages- und Nachtpflege im Sinne des Elften Buchs Sozialgesetzbuch – Soziale Pflegeversicherung – (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014, 1015), das zuletzt durch Artikel 2a des Gesetzes vom 4. März 2020 (BGBl. I S. 437) geändert worden ist, dürfen vorbehaltlich des Absatzes 2 nicht für den Pflegebetrieb geöffnet werden.
+(1) Einrichtungen der Tages- und Nachtpflege im Sinne des Elften Buchs Sozialgesetzbuch – Soziale Pflegeversicherung – (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014, 1015), das zuletzt durch Artikel 10 des Gesetzes vom 23. März 2020 (BGBl. I S. 604) geändert worden ist, dürfen vorbehaltlich des Absatzes 2 nicht für den Pflegebetrieb geöffnet werden.
 (2) Einrichtungen der in Absatz 1 bezeichneten Art können einen eingeschränkten Betrieb für eine Notbetreuung von Pflegebedürftigen anbieten, deren Angehörige eine berufliche Tätigkeit ausüben, die für die Aufrechterhaltung des öffentlichen Lebens insbesondere im Bereich der Gesundheit, Pflege, der öffentlichen Sicherheit und Versorgung erforderlich ist oder für solche Fälle in denen eine Betreuung pflegefachlich erforderlich ist und nicht anderweitig sichergestellt werden kann.
-
 
 § 7a Bestimmungen für Leistungen der Eingliederungshilfe und für Leistungen nach dem 8. Kapitel des SGB XII
 (1) Werkstätten für Menschen mit Behinderungen und Tagesförderstätten für Menschen mit Behinderungen (dies umfasst die Leistungstypen BFBTS, TSHIV und TBTSB) und Angebote anderer Leistungsanbieter nach § 60 des Neunten Buchs Sozialgesetzbuch vom 23. Dezember 2016 (BGBl. I S. 3234), das zuletzt durch Artikel 8 des Gesetzes vom 14. Dezember 2019 (BGBl. I S. 2789) geändert worden ist, dürfen nicht geöffnet werden, soweit es sich nicht um eine Notbetreuung von Menschen mit Behinderungen handelt,
@@ -84,8 +93,8 @@ Durch eine erhebliche Reduzierung des Betreuungsumfangs in einzelnen Leistungsan
 Bestimmungen für Schulen und Bildungseinrichtungen nach dem Schulgesetz und für Tageseinrichtungen und Angebote der Kindertagespflege nach dem Kindertagesförderungsgesetz
 
 § 8 Schulen und Bildungseinrichtungen nach dem Schulgesetz, Tageseinrichtungen und Angebote der Kindertagespflege nach dem Kindertagesförderungsgesetz
-(1) Öffentliche Schulen und Schulen in freier Trägerschaft einschließlich der Einrichtungen des Zweiten Bildungsweges und der Angebote der ergänzenden Förderung und Betreuung, Volkshochschulen, Musikschulen, Jugendkunstschulen, Jugendverkehrsschulen, Gartenarbeitsschulen sowie freie Einrichtungen im Sinne des Schulgesetzes vom 26. Januar 2004 (GVBl. S. 26), das zuletzt durch Artikel 1 des Gesetzes vom 09. April 2019 (GVBl. S. 255) geändert worden ist, sowie Tageseinrichtungen und Angebote der Kindertagespflege im Sinne des Kindertagesförderungsgesetzes vom 23. Juni 2005 (GVBl. S. 322), das zuletzt durch Artikel 1 des Gesetzes vom 19.12.2017 (GVBl. S. 702) geändert worden ist, dürfen vorbehaltlich der Absätze 2 und 3 nicht für den Lehr- bzw. Betreuungsbetrieb geöffnet werden.
-(2) Prüfungen dürfen durchgeführt werden, sofern hierbei ein Abstand zwischen den Teilnehmenden von mindestens 1,5 Metern gewährleistet ist.
+(1) Öffentliche Schulen und Schulen in freier Trägerschaft einschließlich der Einrichtungen des Zweiten Bildungsweges und der Angebote der ergänzenden Förderung und Betreuung, Volkshochschulen, Musikschulen, Jugendkunstschulen, Jugendverkehrsschulen, Fahrschulen, Gartenarbeitsschulen sowie freie Einrichtungen im Sinne des Schulgesetzes vom 26. Januar 2004 (GVBl. S. 26), das zuletzt durch Artikel 1 des Gesetzes vom 09. April 2019 (GVBl. S. 255) geändert worden ist, sowie Tageseinrichtungen und Angebote der Kindertagespflege im Sinne des Kindertagesförderungsgesetzes vom 23. Juni 2005 (GVBl. S. 322), das zuletzt durch Artikel 1 des Gesetzes vom 19. Dezember 2017 (GVBl. S. 702) geändert worden ist, dürfen vorbehaltlich der Absätze 2 und 3 nicht für den Lehr- bzw. Betreuungsbetrieb geöffnet werden.
+(2) Prüfungen dürfen durchgeführt werden, sofern hierbei ein Abstand zwischen den anwesenden Personen von mindestens 1,5 Metern gewährleistet ist.
 (3) Einrichtungen der in Absatz 1 bezeichneten Art können einen eingeschränkten Betrieb für eine Notbetreuung von Kindern von Eltern anbieten, deren berufliche Tätigkeit für die Aufrechterhaltung des öffentlichen Lebens insbesondere im Bereich der Gesundheit, Pflege, der öffentlichen Sicherheit und Versorgung erforderlich ist.
 Über die Auswahl der Einrichtungen, mit Ausnahme der Tageseinrichtungen und Angebote der Kindertagespflege nach dem Kindertagesförderungsgesetz, entscheidet die für das Schulwesen zuständige Senatsverwaltung.
 Eine Notbetreuung in den Tageseinrichtungen und Angeboten der Kindertagespflege soll grundsätzlich in allen Tageseinrichtungen und Kindertagespflegestellen angeboten werden; näheres hierzu regelt die für Jugend und Familie zuständige Senatsverwaltung.
@@ -98,9 +107,10 @@ Eine Notbetreuung in den Tageseinrichtungen und Angeboten der Kindertagespflege 
 Bestimmungen für Einrichtungen im Bereich Wissenschaft und Forschung
 
 § 10 Hochschulen
-Staatliche, private und konfessionelle Hochschulen einschließlich ihrer Einrichtungen dürfen nicht für den Präsenzlehrbetrieb und nicht für den Publikumsverkehr geöffnet werden.
+(1) Staatliche, private und konfessionelle Hochschulen einschließlich ihrer Einrichtungen dürfen nicht für den Präsenzlehrbetrieb und nicht für den Publikumsverkehr geöffnet werden.
+(2) Prüfungen dürfen durchgeführt werden, sofern hierbei ein Abstand zwischen den anwesenden Personen von mindestens 1,5 Metern gewährleistet ist.
 
-§ 11 Bibliotheken
+§ 11 Bibliotheken
 Bibliotheken dürfen nicht für den Publikumsverkehr geöffnet werden.
 Onlinedienste können angeboten werden.
 
@@ -109,22 +119,23 @@ Mensen des Studierendenwerkes dürfen nicht geöffnet werden.
 
 § 13 Außeruniversitäre Forschungseinrichtungen
 Die Regelungen der §§ 10 und 11 gelten entsprechend auch für die außeruniversitären Forschungseinrichtungen im Land Berlin, ungeachtet ihrer Rechtsform.
-
+
 5. Teil
 Vorübergehende Kontaktbeschränkungen
 
 § 14 Kontaktbeschränkungen im Stadtgebiet von Berlin
-(1) Im Stadtgebiet von Berlin gemäß Artikel 4 Absatz 1 der Verfassung von Berlin vom 23. November 1995 (GVBl. S. 779), die zuletzt durch Gesetz vom 22. März 2016 (GVBl. S. 114) geändert worden ist, befindliche Personen haben sich, vorbehaltlich anderweitiger Regelungen dieser Verordnung, ständig in ihrer Wohnung oder gewöhnlichen Unterkunft aufzuhalten.
+(1) Im Stadtgebiet von Berlin gemäß Artikel 4 Absatz 1 der Verfassung von Berlin vom 23. November 1995 (GVBl. S. 779), die zuletzt durch Gesetz vom 22. März 2016 (GVBl. S. 114) geändert worden
+ist, befindliche Personen haben sich, vorbehaltlich anderweitiger Regelungen dieser Verordnung, ständig in ihrer Wohnung oder gewöhnlichen Unterkunft aufzuhalten.
 Dies gilt auch für wohnungslose Menschen, soweit sie kommunal oder ordnungsrechtlich untergebracht sind.
 (2) Das Vorliegen von Gründen, die das Verlassen der Wohnung oder gewöhnlichen Unterkunft nach den Bestimmungen dieser Verordnung erlauben, ist gegenüber der Polizei und den zuständigen Ordnungsbehörden glaubhaft zu machen.
-Bei jeglichem Aufenthalt außerhalb der Wohnung oder gewöhnlichen Unterkunft ist – soweit möglich – ein Mindestabstand von 1,5 Metern zu anderen Personen einzuhalten.
+Bei jeglichem Aufenthalt außerhalb der Wohnung oder gewöhnlichen Unterkunft ist – soweit möglich – ein Mindestabstand von 1,5 Metern zu anderen Personen, sofern sie nicht Ehe- oder Lebenspartnerinnen oder -partner sind oder dem eigenen Haushalt angehören, einzuhalten.
 (3) Gründe im Sinne des Absatzes 2 sind insbesondere:
 a) die Ausübung beruflicher, mandatsbezogener oder ehrenamtlicher Tätigkeiten, auch an wechselnden Einsatzstellen,
-b) die Inanspruchnahme medizinischer und veterinärmedizinischer Versorgungsleistungen (z.B. Arztbesuch, medizinische Behandlungen; Blutspenden) sowie der Besuch bei Angehörigen helfender Berufe, soweit dies medizinisch dringend erforderlich ist (z.B. Psycho- und Physiotherapeuten),
-c) Besorgungen des persönlichen Bedarfs in Verkaufsstellen und Inanspruchnahme von Dienstleistungen mit Ausnahme der nach § 2 Abs. 5, §§ 3 ff. untersagt sind,
+b) die Inanspruchnahme veterinärmedizinischer Versorgungsleistungen (z.B. Arztbesuch, medizinische Behandlungen; Blutspenden) sowie der Besuch bei Angehörigen helfender Berufe, soweit dies medizinisch dringend erforderlich ist (z.B. Psycho- und Physiotherapeuten), medizinischer und
+c) Besorgungen des persönlichen Bedarfs in Verkaufsstellen und Inanspruchnahme von Dienstleistungen mit Ausnahme derjenigen, die nach § 2 bis § 4 untersagt sind,
 d) der Besuch bei Ehepartnerinnen und Ehepartnern oder Lebenspartnerinnen und Lebenspartnern und die Wahrnehmung des Sorgerechts oder Umgangsrechts im jeweiligen privaten Bereich,
 e) der Besuch bei alten oder kranken Menschen oder bei Menschen mit Einschränkungen außerhalb von Einrichtungen; innerhalb von Einrichtungen nur nach Maßgabe von § 6,
-f) die Begleitung Minderjährigen, von unterstützungsbedürftigen Personen und
+f) die Begleitung von unterstützungsbedürftigen Personen und Minderjährigen,
 g) die Begleitung Sterbender sowie Beerdigungen im engsten Familien- oder Freundeskreis,
 h) das Verlassen und Wiederbetreten des Stadtgebiets von Berlin, sofern es auf direktem Weg von beziehungsweise zu der Wohnung oder gewöhnlichen Unterkunft erfolgt,
 i) Sport und Bewegung an der frischen Luft, alleine, mit Angehörigen des eigenen Haushalts oder mit einer anderen Person, ohne jede sonstige Gruppenbildung,
@@ -132,9 +143,12 @@ j) Handlungen zur Versorgung und Betreuung von Tieren,
 k) die Bewirtschaftung von gärtnerischen oder landwirtschaftlichen Flächen,
 l) der Besuch von Veranstaltungen oder Versammlungen, die nach Maßgabe von § 1 erlaubt oder genehmigt sind,
 m) die Teilnahme an Prüfungen,
-n) die Wahrnehmung dringend erforderlicher Termine bei Behörden, Gerichten, Rechtsantragsstellen, Gerichtsvollzieherinnen und Gerichtsvollziehern, Rechtsanwältinnen und Rechtsanwälten und Notarinnen und Notaren,
+n) die Wahrnehmung dringend erforderlicher Termine bei Behörden, Gerichten, Gerichtsvollziehern, Rechtsantragsstellen, Rechtsanwältinnen und Rechtsanwälten und Notarinnen und Notaren, Gerichtsvollzieherinnen und
 o) die Befolgung behördlicher, staatsanwaltschaftlicher oder polizeilicher Vorladungen,
 p) die individuelle stille Einkehr in Kirchen, Moscheen, Synagogen und Häusern anderer Glaubens- und Weltanschauungsgemeinschaften.
+(4) Bei Aktivitäten nach Absatz 3 i sind Erholungspausen auf fest installierten Sitzgelegenheiten bei Wahrung des Mindestabstands nach Absatz 2 zulässig, auf Wiesen und Freiflächen bei Wahrung eines Mindestabstands von 5 m.
+Grillen und das Anbieten offener Speisen sind nicht zulässig.
+Zur Vermeidung von Überfüllungen können Zugangsbeschränkungen für Parks und Grünanlagen festgelegt werden.
 
 § 15 Schulen, Einrichtungen der Pflege, der Behindertenhilfe und der Kinderbetreuung
 Das Aufsuchen von Einrichtungen im Sinne von § 7, § 7a und § 8 ist zum Zwecke der Inanspruchnahme der dortigen Betreuungsangebote und um Menschen, die dort betreut werden, dorthin zu begleiten oder abzuholen zulässig.
@@ -142,19 +156,46 @@ Das Aufsuchen von Einrichtungen im Sinne von § 7, § 7a und § 8 ist zum Zwecke
 § 16 Persönliche Hilfeleistungen
 Zur Hilfeleistung für Menschen, die die in dieser Verordnung bezeichneten Wege nicht selbst zurücklegen oder ihre persönlichen Geschäfte nicht selbst besorgen können, ist die Erledigung der Wege beziehungsweise die Besorgung der Geschäfte durch eine selbstgewählte Hilfsperson zulässig.
 
-§ 17 Ausweispflicht
-Der Personalausweis oder ein anderer amtlicher Lichtbildausweis nebst einem Dokument, aus dem die Wohnanschrift der Person ersichtlich ist, ist mitzuführen und auf Verlangen der Polizei und den zuständigen Ordnungsbehörden vorzulegen.
-
 6. Teil
+Quarantänemaßnahmen
+
+§ 17 Häusliche Quarantäne für Reiserückkehrende
+(1) Personen, die auf dem Luftweg am Flughafen Berlin-Tegel „Otto Lilienthal“ aus einem Staat außerhalb der Bundesrepublik Deutschland, gegebenenfalls auch nach Umsteigen an einem Flughafen innerhalb der Bundesrepublik, oder nach Ankunft am Flughafen Berlin-Schönefeld auf dem Landweg in das Stadtgebiet von Berlin einreisen, sind verpflichtet, sich unverzüglich nach ihrer Einreise auf direktem Weg in ihre Wohnung oder gewöhnliche Unterkunft zu begeben und sich für einen Zeitraum von 14 Tagen nach ihrer Rückkehr ständig dort aufzuhalten.
+Personen, auf die die Voraussetzungen nach Satz 1 zutreffen und die keinen über die Durchreise hinausgehenden Aufenthalt im Stadtgebiet von Berlin beabsichtigen, haben das Stadtgebiet von Berlin auf unmittelbarem Weg zu verlassen.
+Die für Satz 2 erforderliche Durchreise durch das Stadtgebiet von Berlin ist erlaubt.
+Satz 2 gilt nicht für Personen, die den Flughafen Berlin-Tegel „Otto Lilienthal“ lediglich zum Transit benutzen.
+(2) Die in Absatz 1 Satz 1 genannten Personen sind verpflichtet, unverzüglich das für sie zuständige Gesundheitsamt zu kontaktieren und auf das Vorliegen der Voraussetzungen nach Absatz 1 Satz 1 hinzuweisen.
+Diese Pflicht besteht unabhängig davon, ob daneben eine Meldung bei der Hausärztin oder dem Hausarzt oder dem kassenärztlichen Bereitschaftsdienst erfolgt.
+(3) Für die Zeit der Quarantäne nach Absatz 1 Satz 1 unterliegen die dort genannten Personen der Beobachtung durch das Gesundheitsamt.
+(4) Bei Personen nach Absatz 1 Satz 1, deren Tätigkeit zur Aufrechterhaltung der Sicherheit und Ordnung, der Pflege diplomatischer Beziehungen, der Funktionsfähigkeit des Gesundheits- und Rechtswesens und von Volksvertretung, Regierung und Verwaltung des Bundes und der Länder unabdingbar sind, kann im Rahmen einer Risikoabwägung zwischen der Ansteckungsgefahr und der notwendigen Tätigkeitsaufnahme abgewogen werden, ob für die Dauer des Dienstes und der damit verbundenen Wege von der und in die Wohnung oder von der gewöhnlichen Unterkunft oder in die gewöhnliche Unterkunft von Verpflichtungen nach Absatz 1 Satz abgesehen werden kann.
+Dies gilt nur im Falle einer Symptomfreiheit der betroffenen Personen.
+(5) Von Absatz 1 Satz 1 nicht erfasst sind Mitarbeitende von Luftverkehrsunternehmen, die sich im Rahmen ihrer dienstlichen Tätigkeit außerhalb der Bundesrepublik aufgehalten haben.
+(6) Personen nach Absatz 1 sind so weit wie möglich auf geeignetem Weg über die Verpflichtungen nach Absatz 1 sowie die bestehende Meldepflicht nach Absatz 2 zu informieren.
+
+§ 18 Datenübermittlung
+Das für den Bezirk Reinickendorf zuständige Gesundheitsamt übermittelt zur Sicherstellung der Überwachung der häuslichen Quarantäne nach § 17 Absatz 1 Satz 1 die erforderlichen personenbezogenen Daten von betroffenen Rückkehrenden, die auf dem Luftweg am Flughafen Berlin-Tegel „Otto Lilienthal“ in das Stadtgebiet von Berlin einreisen, an das für den Wohnort zuständige Gesundheitsamt.
+Zu diesem Zweck fordert das Gesundheitsamt Reinickendorf die Luftfahrtunternehmen auf, die bei ihnen vorhandenen personenbezogenen Daten zu den in § 17 Absatz 1 Satz 1 genannten Personen unverzüglich zur Verfügung zu stellen.“
+
+7. Teil
 Schlussvorschriften
 
-§ 18 Inkrafttreten, Außerkrafttreten, Evaluation
-(1) Diese Verordnung tritt am 23. März 2020 in Kraft; sie tritt vorbehaltlich des Absatzes 2 mit Ablauf des 19. April 2020 außer Kraft.
-(2) Teil 5 dieser Verordnung tritt mit Ablauf des 5. April 2020 außer Kraft.
-(3) Der Verordnungsgeber wird fortlaufend evaluieren, ob die Voraussetzungen zur Aufrechterhaltung dieser Grundrechtseinschränkungen weiter Bestand haben.
-(4) Mit Inkrafttreten dieser Verordnung tritt die SARS-CoV-2-Eindämmungsmaßnahmenverordnung vom 17. März 2020, die gemäß § 2 Absatz 1 des Gesetzes über die Verkündung von Gesetzen und Rechtsverordnungen am 17. März 2020 verkündet wurde, zuletzt geändert durch die Verordnung vom 21. März 2020, die ebenfalls gemäß § 2 Absatz 1 des Gesetzes über die Verkündung von Gesetzen und Rechtsverordnungen am 21. März 2020 verkündet wurde, außer Kraft.
+§ 19 Ordnungswidrigkeiten
+Ordnungswidrig im Sinne des § 73 Abs. 1a Nr. 24 IfSG handelt, wer vorsätzlich oder fahrlässig die in den §§ 1-4, 6-14 und 17 dieser Verordnung enthaltenen Gebote und Verbote nicht beachtet.
+Ordnungswidrigkeiten können mit einer Geldbuße bis zu 25 000 Euro geahndet werden.
 
-Berlin, den 22. März 2020
+
+§ 20 Inkrafttreten; Außerkrafttreten; Evaluation
+(1) Diese Verordnung tritt am 23. März 2020 in Kraft; sie tritt mit Ablauf des 19. April 2020 außer Kraft.
+(2) Der Verordnungsgeber wird fortlaufend evaluieren, ob die Voraussetzungen zur Aufrechterhaltung dieser Grundrechtseinschränkungen weiter Bestand haben.
+(3) Mit Inkrafttreten dieser Verordnung tritt die SARS-CoV-2-Eindämmungsmaßnahmenverordnung vom 17. März 2020, die gemäß § 2 Absatz 1 des Gesetzes über die Verkündung von Gesetzen und Rechtsverordnungen am 17. März 2020 verkündet wurde, zuletzt geändert durch die Verordnung vom 21. März 2020, die ebenfalls
+gemäß § 2 Absatz 1 des Gesetzes über die Verkündung von Gesetzen und Rechtsverordnungen am 21. März 2020 verkündet wurde, außer Kraft.
+
+Artikel 2
+Inkrafttreten
+
+Diese Verordnung tritt am 3. April 2020 in Kraft.
+
+Berlin, den 2. April 2020
 Der Senat von Berlin
 Michael Müller Regierender Bürgermeister
 Dilek Kalayci Senatorin für Gesundheit, Pflege und Gleichstellung
