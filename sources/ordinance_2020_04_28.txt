@@ -13,16 +13,19 @@ Die SARS-CoV-2-Eindämmungsmaßnahmenverordnung vom 22. März 2020, verkündet a
 Allgemeine Verhaltensregelungen
 
 § 1 Grundsätzliche Pflichten
-Jede Person hat die physisch sozialen Kontakte zu anderen Menschen auf ein absolut nötiges Minimum zu reduzieren. Bei Kontakten im Sinne von Satz 1 ist ein Mindestabstand von 1,5 Metern einzuhalten, soweit die Umstände dies zulassen.
+Jede Person hat die physisch sozialen Kontakte zu anderen Menschen auf ein absolut nötiges Minimum zu reduzieren.
+Bei Kontakten im Sinne von Satz 1 ist ein Mindestabstand von 1,5 Metern einzuhalten, soweit die Umstände dies zulassen.
 Satz 1 und 2 gelten nicht für Ehe- und Lebenspartnerinnen und -partner und Angehörige des eigenen Haushalts sowie für Personen, für die ein Sorge- und Umgangsrecht besteht.
 
 § 2 Einhaltung von Hygieneregeln
-(1) In allen nachfolgend geregelten Betrieben, Einrichtungen und Angeboten sind die einschlägigen Empfehlungen des Robert Koch-Instituts zum Infektionsschutz in ihrer jeweiligen Fassung zu berücksichtigen und die Vorgaben der jeweiligen Arbeitsschutzbehörden sowie wirksame Schutzvorschriften für Personal, Besuchende sowie Kundinnen und Kunden zur Hygiene einzuhalten. Ziele der zu veranlassenden Schutzmaßnahmen sind die Reduzierung von Kontakten, der Schutz des Personals vor Infektionen sowie die möglichst weitgehende Vermeidung von Schmierinfektionen über Oberflächen und Gegenstände.
+(1) In allen nachfolgend geregelten Betrieben, Einrichtungen und Angeboten sind die einschlägigen Empfehlungen des Robert Koch-Instituts zum Infektionsschutz in ihrer jeweiligen Fassung zu berücksichtigen und die Vorgaben der jeweiligen Arbeitsschutzbehörden sowie wirksame Schutzvorschriften für Personal, Besuchende sowie Kundinnen und Kunden zur Hygiene einzuhalten.
+Ziele der zu veranlassenden Schutzmaßnahmen sind die Reduzierung von Kontakten, der Schutz des Personals vor Infektionen sowie die möglichst weitgehende Vermeidung von Schmierinfektionen über Oberflächen und Gegenstände.
 Dies soll insbesondere durch Einhaltung der Abstandsregelung von mindestens 1,5 Metern Abstand zu anderen Personen sowie ein verstärktes Reinigungs- und Desinfektionsregime sichergestellt werden.
 eiterhin werden falls erforderlich, Maßnahmen zur Steuerung des Zutritts, die Vermeidung von Warteschlangen und die Beachtung des Abstandsgebots bei Ansammlungen von Menschen in Wartebereichengetroffen.
 Die Vorhaltung eines Hygienekonzepts und Einhaltung der Hygienevorschriften nach den Sätzen 1 bis 4 können durch die zuständige Behörde überprüft werden.
 (2) Das Tragen einer Mund-Nasen-Bedeckung wird dringend empfohlen, insbesondere bei Kontakt mit Risikopersonen, um für sich und andere das Risiko von Infektionen zu reduzieren.
-(3) Bei der Nutzung des öffentlichen Personennahverkehrs ist ab dem 27. April 2020 sowie für Kundinnen und Kunden für Kundinnen und Kunden in Gewerbebetrieben mit Publikumsverkehr und Verkaufsstellen im Sinne von § 6a Absatz 1 und 2 sowie in Einkaufszentren (Malls) im Sinne von § 6a Absatz 4 Satz 1 ab dem 29. April 2020 eine Mund-Nasen-Bedeckung zu tragen. Die Pflicht zum Tragen einer Mund-Nasen-Bedeckung gilt nicht für Kinder bis zum vollendeten sechsten Lebensjahr oder Personen, die aufgrund einer gesundheitlichen Beeinträchtigung oder einer Behinderung keine Mund-Nasen-Bedeckung tragen können oder bei denen durch andere Vorrichtungen die Verringerung der Ausbreitung übertragungsfähiger Tröpfchenpartikel bewirkt wird.
+(3) Bei der Nutzung des öffentlichen Personennahverkehrs ist ab dem 27. April 2020 sowie für Kundinnen und Kunden für Kundinnen und Kunden in Gewerbebetrieben mit Publikumsverkehr und Verkaufsstellen im Sinne von § 6a Absatz 1 und 2 sowie in Einkaufszentren (Malls) im Sinne von § 6a Absatz 4 Satz 1 ab dem 29. April 2020 eine Mund-Nasen-Bedeckung zu tragen.
+Die Pflicht zum Tragen einer Mund-Nasen-Bedeckung gilt nicht für Kinder bis zum vollendeten sechsten Lebensjahr oder Personen, die aufgrund einer gesundheitlichen Beeinträchtigung oder einer Behinderung keine Mund-Nasen-Bedeckung tragen können oder bei denen durch andere Vorrichtungen die Verringerung der Ausbreitung übertragungsfähiger Tröpfchenpartikel bewirkt wird.
 
 § 3 Aufenthalt im öffentlichen Raum
 (1) Der Aufenthalt im öffentlichen Raum ist nur allein, im Kreise der Ehe- sowie Lebenspartnerinnen und -partner und der Angehörigen des eigenen Haushalts und der Personen, für die ein Sorge- und Umgangsrecht besteht, sowie zusätzlich höchstens mit einer weiteren haushaltsfremden Person gestattet.
@@ -33,7 +36,9 @@ Die Vorhaltung eines Hygienekonzepts und Einhaltung der Hygienevorschriften nach
 sowie
 4. für die Durchführung von pädagogisch begleiteten Außenaktivitäten von Einrichtungen nach § 11, von Angeboten der teilstationären und stationären Jugendhilfe sowie im Fall von Außenaktivitäten bei privater, insbesondere nachbarschaftlich organisierter Betreuungshilfe für Kinder im Sinne des § 11 Absatz 4 Satz 2.
 In diesen Fällen gilt, dass der Mindestabstand eingehalten werden soll, sofern dies im Rahmen der ordnungsgemäßen Nutzung oder Betätigung möglich und zumutbar ist.
-(3) Erholungspausen auf fest installierten Sitzgelegenheiten sind bei Wahrung des Mindestabstands von 1,5 Metern zulässig, auf Wiesen und Freiflächen bei Wahrung eines Mindestabstands von 5 Metern. Grillen und das Anbieten offener Speisen sind nicht zulässig. Zur Vermeidung von Überfüllungen können Zugangsbeschränkungen für Parks und Grünanlagen festgelegt werden.
+(3) Erholungspausen auf fest installierten Sitzgelegenheiten sind bei Wahrung des Mindestabstands von 1,5 Metern zulässig, auf Wiesen und Freiflächen bei Wahrung eines Mindestabstands von 5 Metern.
+Grillen und das Anbieten offener Speisen sind nicht zulässig.
+Zur Vermeidung von Überfüllungen können Zugangsbeschränkungen für Parks und Grünanlagen festgelegt werden.
 
 § 4 Veranstaltungen, Versammlungen, Zusammenkünfte und Ansammlungen
 (1) Öffentliche und nichtöffentliche Veranstaltungen, Versammlungen, Zusammenkünfte und Ansammlungen dürfen nicht stattfinden, soweit in dieser Verordnung nichts Anderes geregelt ist.
@@ -53,9 +58,10 @@ Ab dem 4. Mai 2020 sind abweichend vom Verbot nach Absatz 1 ortsfeste öffentlic
 Satz 3 gilt entsprechend.
 (4) Kultisch-religiöse Veranstaltungen mit bis zu 50 Teilnehmenden sind ab dem 4. Mai 2020 zugelassen, wenn die räumlichen Bedingungen es zulassen und soweit der Mindestabstand und die Einhaltung der Hygieneregeln nach § 2 Absatz 1 gewährleistet sind.
 Bei der Berechnung der Höchstzahl der Teilnehmenden sind die für die Ausführung der kultisch-religiösen Handlungen unbedingt erforderlichen Personen (Gebetsvorstehende, musikalische Leitung, Hilfsdienste o.ä.) ausgenommen.
-Körperkontakt ist streng zu vermeiden. Dies schließt auch den Kontakt bei kultischen Handlungen ein. Es dürfen keine Gegenstände bei der Durchführung der Veranstaltung zwischen mehreren Personen herumgereicht werden.
+Körperkontakt ist streng zu vermeiden.
+Dies schließt auch den Kontakt bei kultischen Handlungen ein.
+Es dürfen keine Gegenstände bei der Durchführung der Veranstaltung zwischen mehreren Personen herumgereicht werden.
 Absatz 5 gilt entsprechend.
-
 (5) § 17a Absatz 2 des Versammlungsgesetzes in der Fassung der Bekanntmachung vom 15. November 1978 (BGBl. I S. 1789), das zuletzt durch Artikel 2 des Gesetzes vom 8. Dezember 2008 (BGBl. I S. 2366) geändert worden ist, steht dem Tragen einer Mund-Nasen-Bedeckung zum Infektionsschutz nicht entgegen.
 
 2. Teil
@@ -73,7 +79,9 @@ Für die auf dem Zoo- bzw. Tierpark-Gelände gelegenen Verkaufsstellen und Gasts
 Die Erbringung sexueller Dienstleistungen mit Körperkontakt ist untersagt.
 (7) Dienstleistungsgewerbe im Bereich der Körperpflege wie Kosmetikstudios, Massagepraxen, Tattoo-Studios und ähnliche Betriebe dürfen weder für den Publikumsverkehr geöffnet werden noch ihre Dienste anbieten.
 Das gilt nicht für medizinisch notwendige Behandlungen.
-(8) Friseurbetriebe bleiben bis zum 3. Mai 2020 geschlossen. Ab dem 4. Mai 2020 dürfen Friseurbetriebe ihre Dienstleistungen erbringen. Dabei sind die Hygieneregeln nach § 2 Absatz 1 einzuhalten.
+(8) Friseurbetriebe bleiben bis zum 3. Mai 2020 geschlossen.
+Ab dem 4. Mai 2020 dürfen Friseurbetriebe ihre Dienstleistungen erbringen.
+Dabei sind die Hygieneregeln nach § 2 Absatz 1 einzuhalten.
 (9) Gewerbliche Ausflugs- und Stadtrundfahrten dürfen nicht stattfinden.
 
 § 6 Gaststätten und Hotels
@@ -102,7 +110,8 @@ Der Mindestabstand von 1,5 Metern ist einzuhalten.
 Die Nutzung fest installierter Sportgeräte für die individuelle Fitness (z.B. Calisthenics-Anlagen) bleibt weiterhin untersagt.
 Das Betreten der Gebäude zu dem ausschließlichen Zweck, das für die jeweilige Sportart zwingend erforderliche Sportgerät zu entnehmen bzw. zurückzustellen, ist zulässig.
 Umkleiden, Duschen, mit diesen verbundene WCs und sonstige Räumlichkeiten bleiben geschlossen.
-Gesonderte WC-Anlagen können geöffnet werden. Wiesen und Freiflächen der Sportanlage dürfen ausschließlich für die sportliche Betätigung genutzt werden.
+Gesonderte WC-Anlagen können geöffnet werden.
+Wiesen und Freiflächen der Sportanlage dürfen ausschließlich für die sportliche Betätigung genutzt werden.
 Sollten aufgrund der besonderen Beschaffenheit der Sportanlage Abstandsregelungen nicht eingehalten werden können oder durch die Nutzenden tatsächlich nicht eingehalten werden, kann die Sportanlage durch die zuständige Stelle ganz oder zeitweise gesperrt werden.
 (3) Weitere Ausnahmen von der Untersagung nach Absatz 1 können unter Einhaltung der Vorgaben in besonders begründeten Einzelfällen ausschließlich durch schriftliche Genehmigung der für Sport zuständigen Senatsverwaltung zugelassen werden.
 Dies gilt insbesondere für
@@ -116,7 +125,8 @@ c) den Trainingsbetrieb von Bundesligateams und Profisportlern und -sportlerinne
 Bestimmungen für Krankenhäuser und Pflegeheime, für Leistungen der Eingliederungshilfe sowie für Leistungen nach dem 8. Kapitel des SGB XII und ähnliche Einrichtungen
 
 § 8 Krankenhäuser
-(1) Krankenhäuser im Sinne des Landeskrankenhausgesetzes vom 18. September 2011 (GVBl. S. 483), das zuletzt durch Artikel 15 des Gesetzes vom 2. Februar 2018 (GVBl. S. 160) geändert worden ist, die an der Notfallversorgung teilnehmen, müssen, soweit medizinisch vertretbar, grundsätzlich alle planbaren Aufnahmen, Operationen und Eingriffe aussetzen, soweit dadurch personelle und sonstige Kapazitäten für die Behandlung von Patientinnen und Patienten mit COVID-19 oder Verdacht hierauf freigesetzt werden können. Die gleiche Pflicht trifft die übrigen Krankenhäuser ab dem 25. März 2020.
+(1) Krankenhäuser im Sinne des Landeskrankenhausgesetzes vom 18. September 2011 (GVBl. S. 483), das zuletzt durch Artikel 15 des Gesetzes vom 2. Februar 2018 (GVBl. S. 160) geändert worden ist, die an der Notfallversorgung teilnehmen, müssen, soweit medizinisch vertretbar, grundsätzlich alle planbaren Aufnahmen, Operationen und Eingriffe aussetzen, soweit dadurch personelle und sonstige Kapazitäten für die Behandlung von Patientinnen und Patienten mit COVID-19 oder Verdacht hierauf freigesetzt werden können.
+Die gleiche Pflicht trifft die übrigen Krankenhäuser ab dem 25. März 2020.
 (2) Krankenhäuser haben die notwendigen Maßnahmen zu treffen, um ihr ärztliches und pflegerisches Personal unverzüglich auf dem Gebiet der Intensivpflege mit Beatmungseinheiten und der Behandlung von Patientinnen und Patienten mit COVID-19 oder Verdacht hierauf zu schulen.
 (3) Krankenhäuser müssen, soweit medizinisch vertretbar, ihre personellen und sonstigen Ressourcen schwerpunktmäßig für die Behandlung von Patientinnen und Patienten mit COVID-19 oder Verdacht hierauf einsetzen.
 
@@ -125,14 +135,15 @@ Bestimmungen für Krankenhäuser und Pflegeheime, für Leistungen der Einglieder
 (2) Kinder unter 16 Jahren dürfen einmal am Tag von einer ihnen nahestehenden Person für eine Stunde Besuch empfangen, allerdings nicht von Menschen mit Atemwegsinfektionen.
 Schwerstkranke dürfen, insbesondere zur Sterbebegleitung, Besuch von Urkundspersonen sowie nach ärztlicher Genehmigung von ihnen nahestehenden Personen empfangen.
 (3) Bewohnerinnen und Bewohner von Pflegeheimen und besonderen Wohnformen im Sinne des Neunten Buchs Sozialgesetzbuch vom 23. Dezember 2016 (BGBl. I S. 3234), das zuletzt durch Artikel 8 des Gesetzes vom 14. Dezember 2019 (BGBl. I S. 2789) geändert worden ist, dürfen einmal am Tag von einer Person für eine Stunde Besuch empfangen, allerdings nicht von Kindern unter 16 Jahren oder von Menschen mit Atemwegsinfektionen.
-Im Rahmen einer Gefährdungsabschätzung für die Bewohnerinnen und Bewohner kann der Betreiber der Einrichtung die Besuchsregelung nach Satz 1 einschränken oder ein Besuchsverbot entsprechend Absatz 1 vorbehaltlich des Absatzes 2 festlegen. Ein Besuchsverbot ist gegenüber der zuständigen Aufsichtsbehörde anzuzeigen.
+Im Rahmen einer Gefährdungsabschätzung für die Bewohnerinnen und Bewohner kann der Betreiber der Einrichtung die Besuchsregelung nach Satz 1 einschränken oder ein Besuchsverbot entsprechend Absatz 1 vorbehaltlich des Absatzes 2 festlegen.
+Ein Besuchsverbot ist gegenüber der zuständigen Aufsichtsbehörde anzuzeigen.
 (4) Patientinnen und Patienten in Einrichtungen der Sterbebegleitung sowie Bewohnerinnen und Bewohner von solchen Einrichtungen und Schwerstkranke und Sterbende unterliegen keinen Beschränkungen für den Empfang von Besuch.
-(5) Gebärende dürfen sich zur Geburt in einem Krankenhaus von einer Person eigener Wahl begleiten lassen. Neugeborene und deren Mütter dürfen einmal am Tag von einer Person für eine Stunde Besuch empfangen, allerdings nicht von Kindern unter 16 Jahren, ausgenommen Geschwister des Neugeborenen, oder von Menschen mit Atemwegsinfektionen.
+(5) Gebärende dürfen sich zur Geburt in einem Krankenhaus von einer Person eigener Wahl begleiten lassen.
+Neugeborene und deren Mütter dürfen einmal am Tag von einer Person für eine Stunde Besuch empfangen, allerdings nicht von Kindern unter 16 Jahren, ausgenommen Geschwister des Neugeborenen, oder von Menschen mit Atemwegsinfektionen.
 (6) Besuche von mit der Seelsorge betrauten Personen sind, gegebenenfalls unter Auferlegung erforderlicher Verhaltensmaßregeln, stets zulässig.
 
 § 10 Einrichtungen der Tages- und Nachtpflege
-(1) Einrichtungen der Tages- und Nachtpflege im Sinne des Elften Buchs Sozialgesetzbuch – Soziale Pflegeversicherung – (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014, 1015), das zuletzt durch Artikel 10 des Gesetzes vom 22. März 2020 (BGBl. I S. 604) geändert worden ist, dürfen vorbehaltlich des
-Absatzes 2 nicht für den Pflegebetrieb geöffnet werden.
+(1) Einrichtungen der Tages- und Nachtpflege im Sinne des Elften Buchs Sozialgesetzbuch – Soziale Pflegeversicherung – (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014, 1015), das zuletzt durch Artikel 10 des Gesetzes vom 22. März 2020 (BGBl. I S. 604) geändert worden ist, dürfen vorbehaltlich des Absatzes 2 nicht für den Pflegebetrieb geöffnet werden.
 (2) Einrichtungen nach Absatz 1 können einen eingeschränkten Betrieb für eine Notbetreuung von Pflegebedürftigen anbieten, deren Angehörige eine berufliche Tätigkeit ausüben, die für die Aufrechterhaltung des öffentlichen Lebens insbesondere im Bereich der Gesundheit, Pflege, der öffentlichen Sicherheit und Versorgung erforderlich ist oder für solche Fälle in denen eine Betreuung pflegefachlich erforderlich ist und nicht anderweitig sichergestellt werden kann.
 
 § 10a Bestimmungen für Leistungen der Eingliederungshilfe und für Leistungen nach dem 8. Kapitel des SGB XII
@@ -143,10 +154,8 @@ Notbetreuung von Menschen mit Behinderungen handelt,
 3. für die im Einzelfall die Betreuung für die Stabilisierung des Gesundheitszustandes dringend erforderlich ist.
 Vom Öffnungsverbot des Satz 1 erster Halbsatz ausgenommen sind Werkstätten für Menschen mit Behinderungen, die im Zusammenhang mit medizinischen oder pflegerelevanten Produkten Leistungen oder Unterstützungsarbeiten erbringen oder durchführen; hierzu zählen auch Wäschereien.
 Dasselbe gilt für solche Betriebsbereiche von Werkstätten für Menschen mit Behinderungen, die der Versorgung mit Speisen in medizinischen und/oder pflegerelevanten Einrichtungen dienen.
-Die Träger, die die Notbetreuung nach Satz 1 zweiter Halbsatz durchführen und die Träger der Werkstätten für Menschen mit Behinderungen, die vom Öffnungsverbot des Satz 1 erster Halbsatz nach Satz 2 und 3 ausgenommen sind, haben in allen Fällen durch geeignete Maßnahmen sicherzustellen, dass Abstands-
-und Hygieneregeln nach § 2 Absatz 1 eingehalten und Nahkontakte so weit wie möglich verhindert werden.
-(2) Leistungserbringer mit Vereinbarungen nach § 123 Neuntes Buch Sozialgesetzbuch oder § 75 Zwölftes Buch Sozialgesetzbuch – Sozialhilfe – (Artikel 1 des Gesetzes vom 27. Dezember 2003, BGBl. I S. 3022, 3023), das zuletzt durch Artikel 11 des Gesetzes vom 27. März 2020 (BGBl. I S. 575) geändert worden ist,
-sind zur Abwendung von Gefahren für Mitarbeitende und Leistungsberechtigte befugt, das Personal abweichend von den Leistungsvereinbarungen einzusetzen.
+Die Träger, die die Notbetreuung nach Satz 1 zweiter Halbsatz durchführen und die Träger der Werkstätten für Menschen mit Behinderungen, die vom Öffnungsverbot des Satz 1 erster Halbsatz nach Satz 2 und 3 ausgenommen sind, haben in allen Fällen durch geeignete Maßnahmen sicherzustellen, dass Abstands- und Hygieneregeln nach § 2 Absatz 1 eingehalten und Nahkontakte so weit wie möglich verhindert werden.
+(2) Leistungserbringer mit Vereinbarungen nach § 123 Neuntes Buch Sozialgesetzbuch oder § 75 Zwölftes Buch Sozialgesetzbuch – Sozialhilfe – (Artikel 1 des Gesetzes vom 27. Dezember 2003, BGBl. I S. 3022, 3023), das zuletzt durch Artikel 11 des Gesetzes vom 27. März 2020 (BGBl. I S. 575) geändert worden ist, sind zur Abwendung von Gefahren für Mitarbeitende und Leistungsberechtigte befugt, das Personal abweichend von den Leistungsvereinbarungen einzusetzen.
 Die Grundversorgung der Leistungsberechtigten ist sicherzustellen.
 Durch eine erhebliche Reduzierung des Betreuungsumfangs in einzelnen Leistungsangeboten freiwerdendes Personal ist von den Leistungserbringern in anderen Angeboten zum Einsatz zu bringen, um dort die Versorgung sicherzustellen.
 
@@ -190,7 +199,6 @@ Wissenschaftliche Bibliotheken und Archive dürfen unter Beachtung der Hygienere
 Die Außenanlagen des Botanischen Gartens dürfen unter Einhaltung der Hygieneregeln nach § 2 Absatz 1 ab dem 27. April 2020 geöffnet werden.
 
 § 16 Mensen
-
 Mensen des Studierendenwerkes dürfen nicht geöffnet werden.
 
 § 17 Außeruniversitäre Forschungseinrichtungen
@@ -241,7 +249,8 @@ Das Gesundheitsamt ist insbesondere befugt, die Absonderung nach § 18 Absatz 1 
 (1) Für Personen, die sich aufgrund § 18 Absatz 1 Satz 1 der SARS-CoV-2-Eindämmungsmaßnahmenverordnung in der Fassung vom 2. April 2020 bereits in häuslicher Quarantäne befinden und die die Voraussetzungen einer Ausnahme nach § 19 Absatz 1 oder Absatz 3 erfüllen, entfällt die Verpflichtung zur häuslichen Quarantäne vorbehaltlich des Satz 2 mit sofortiger Wirkung.
 Handelt es sich um eine Ausnahme nach § 19 Absatz 1 Nummer 2 ist die zwingende Notwendigkeit der Tätigkeit durch den Dienstherrn oder Arbeitgeber unverzüglich schriftlich zu bescheinigen und diese Bescheinigung mitzuführen.
 (2) Personen, die sich aufgrund § 18 Absatz 1 Satz 1 der SARS-CoV-2-Eindämmungsmaßnahmenverordnung in der Fassung vom 2. April 2020 bereits in häuslicher Quarantäne befinden und die die Voraussetzungen einer Ausnahme nach § 19 Absatz 2 erfüllen, können den Zeitraum, in dem sie sich bereits abgesondert haben, von dem in § 19 Absatz 2 vorgegeben Zeitraum von 14 Tagen abziehen.
-Für die verbleibende Zeit der Absonderung gelten die Vorgaben des § 19 Absatz 2 Satz 1. § 19 Absatz 2 Satz 2 und 3 finden Anwendung.
+Für die verbleibende Zeit der Absonderung gelten die Vorgaben des § 19 Absatz 2 Satz 1.
+§ 19 Absatz 2 Satz 2 und 3 finden Anwendung.
 (3) Auf Personen, die sich aufgrund § 18 Absatz 1 Satz 1 der SARS-CoV-2-Eindämmungsmaßnahmenverordnung in der Fassung vom 2. April 2020 bereits in häuslicher Quarantäne befinden und die nicht von den Bestimmungen in Absatz 1 oder 2 erfasst sind, findet § 19 Absatz 1 Satz 2 Anwendung.
 
 7. Teil
