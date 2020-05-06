@@ -9,15 +9,12 @@ Artikel 1
 
 Die SARS-CoV-2-Eindämmungsmaßnahmenverordnung vom 22. März 2020, verkündet am 22. März 2020 nach § 2 Absatz 1 des Gesetzes über die Verkündung von Gesetzen und Rechtsverordnungen vom 29. Januar 1953 (GVBl. S. 106), das zuletzt durch Gesetz vom 9. November 1995 (GVBl. S. 764) geändert worden ist, zuletzt geändert durch Verordnung vom 16. April 2020, die am 16. April 2020 ebenfalls nach § 2 Absatz 1 des Gesetzes über die Verkündung von Gesetzen und Rechtsverordnungen verkündet worden ist, wird wie folgt neu gefasst:
 
-
 1. Teil
 Allgemeine Verhaltensregelungen
-
 
 § 1 Grundsätzliche Pflichten
 Jede Person ist angehalten, die physisch sozialen Kontakte zu anderen Menschen auf ein absolut nötiges Minimum zu reduzieren und dabei einen Mindestabstand von 1,5 m einzuhalten.
 Dies gilt nicht für Ehe- oder Lebenspartnerinnen oder -partner oder Angehörige des eigenen Haushalts sowie für Personen, für die ein Sorge- und Umgangsrecht besteht.
-
 
 § 2 Einhaltung von Hygieneregeln
 (1) In allen nachfolgend geregelten Betrieben, Einrichtungen und Angeboten sind die einschlägigen Empfehlungen des Robert Koch-Instituts zum Infektionsschutz in ihrer jeweiligen Fassung zu berücksichtigen und die Vorgaben der jeweiligen Arbeitsschutzbehörden sowie wirksame Schutzvorschriften für Personal, Besuchende sowie Kundinnen und Kunden zur Hygiene einzuhalten.
@@ -31,10 +28,11 @@ Die Vorhaltung eines Hygienekonzepts und Einhaltung der Hygienevorschriften nach
 § 3 Aufenthalt im öffentlichen Raum
 (1) Der Aufenthalt im öffentlichen Raum ist nur allein, im Kreise der Angehörigen des eigenen Haushalts und zusätzlich höchstens mit einer haushaltsfremden Person gestattet.
 
-(2) Absatz 1 gilt nicht für Aufenthalte im öffentlichen Raum zum Zweck der Berichterstattung durch
-1. Vertreter von Presse, Rundfunk, Film oder anderen Medien,
-2. für die Ausübung beruflicher, mandatsbezogener oder ehrenamtlicher Tätigkeiten, die im Freien erbracht werden müssen, einschließlich der jahreszeitlich bedingt erforderlichen Bewirtschaftung landwirtschaftlicher, gartenbaulicher und forstwirtschaftlicher Flächen, für die Benutzung des öffentlichen Personennahverkehrs und von Fahrzeugen
-3. sowie
+(2) Absatz 1 gilt nicht
+1. für Aufenthalte im öffentlichen Raum zum Zweck der Berichterstattung durch Vertreter von Presse, Rundfunk, Film oder anderen Medien,
+2. für die Ausübung beruflicher, mandatsbezogener oder ehrenamtlicher Tätigkeiten, die im Freien erbracht werden müssen, einschließlich der jahreszeitlich bedingt erforderlichen Bewirtschaftung landwirtschaftlicher, gartenbaulicher und forstwirtschaftlicher Flächen,
+3. für die Benutzung des öffentlichen Personennahverkehrs und von Fahrzeugen
+sowie
 4. für die Durchführung von pädagogisch begleiteten Außenaktivitäten von Einrichtungen nach § 11, von Angeboten der teilstationären und stationären Jugendhilfe sowie im Fall von Außenaktivitäten bei privater, insbesondere nachbarschaftlich organisierter Betreuungshilfe für Kinder.
 In diesen Fällen gilt, dass der Mindestabstand eingehalten werden soll, sofern dies im Rahmen der ordnungsgemäßen Nutzung oder Betätigung möglich und zumutbar ist.
 (3) Erholungspausen auf fest installierten Sitzgelegenheiten sind bei Wahrung des Mindestabstands von 1,5 m zulässig, auf Wiesen und Freiflächen bei Wahrung eines Mindestabstands von 5 m.
@@ -62,7 +60,6 @@ Dies schließt auch den Kontakt bei kultischen Handlungen ein.
 Es dürfen keine Gegenstände bei der Durchführung der Veranstaltung zwischen mehreren Personen herumgereicht werden.
 Absatz 5 gilt entsprechend.
 (8) § 17a Absatz 2 Versammlungsgesetz in der Fassung der Bekanntmachung vom 15. November 1978 (BGBl. I S. 1789), das zuletzt durch Artikel 2 des Gesetzes vom 8. Dezember 2008 (BGBl. I S. 2366) geändert worden ist, steht dem Tragen einer Mund-Nasen-Bedeckung zum Infektionsschutz nicht entgegen.
-
 
 2. Teil
 Gewerbe, Handel und sonstige Einrichtungen des gesellschaftlichen Lebens
@@ -164,8 +161,7 @@ Bestimmungen für Schulen und Bildungseinrichtungen nach dem Schulgesetz und fü
 
 § 11 Schulen und Bildungseinrichtungen nach dem Schulgesetz, Tageseinrichtungen und Angebote der Kindertagespflege nach dem Kindertagesförderungsgesetz
 (1) Öffentliche Schulen und Schulen in freier Trägerschaft einschließlich der Einrichtungen des Zweiten Bildungsweges im Sinne des Schulgesetzes vom für das Schulwesen 26. Januar 2004 (GVBl. S. 26), das zuletzt durch Artikel 1 des Gesetzes vom 09. April 2019 (GVBl. S. 255) geändert worden ist, dürfen unter Einhaltung der Hygieneregeln nach § 2 ab dem 27. April 2020 für den Lehrbetrieb geöffnet werden.
-Näheres hierzu bestimmt die zuständige Senatsverwaltung unter Berücksichtigung der Ergebnisse einer
-länderübergreifenden Abstimmung, insbesondere die abgestufte Öffnung nach Schularten, Schulstufen, Jahrgangsstufen und Bildungsgängen sowie die Zulässigkeit von schulischen Veranstaltungen, die außerhalb von Schulen stattfinden.
+Näheres hierzu bestimmt die zuständige Senatsverwaltung unter Berücksichtigung der Ergebnisse einer länderübergreifenden Abstimmung, insbesondere die abgestufte Öffnung nach Schularten, Schulstufen, Jahrgangsstufen und Bildungsgängen sowie die Zulässigkeit von schulischen Veranstaltungen, die außerhalb von Schulen stattfinden.
 Angebote der ergänzenden Förderung und Betreuung finden nicht statt.
 Schülerfahrten sind untersagt.
 (2) Prüfungen dürfen unter Beachtung der Hygieneregeln nach § 2 durchgeführt werden.
@@ -216,7 +212,7 @@ Die in Absatz 1 Satz 1 erfassten Personen sind ferner verpflichtet, beim Auftret
 (3) Für die Zeit der Absonderung nach Absatz 1 Satz 1 unterliegen die dort genannten Personen der Beobachtung durch das Gesundheitsamt.
 
 § 19 Ausnahmen von der häuslichen Quarantäne
-(1) Nicht erfasst von § 18 Absatz 1 Satz 1 sind Personen, 
+(1) Nicht erfasst von § 18 Absatz 1 Satz 1 sind Personen,
 1. die beruflich bedingt grenzüberschreitend andere Personen, Waren und Güter auf der Straße, der Schiene, per Schiff oder per Flugzeug transportieren,
 2. deren Tätigkeit für die Aufrechterhaltung
 a. der Funktionsfähigkeit des Gesundheitswesens einschließlich Pflegeeinrichtungen, und von weiteren kritischen Infrastrukturen,
@@ -224,8 +220,7 @@ b. der öffentlichen Sicherheit und Ordnung,
 c. der Pflege diplomatischer und konsularischer Beziehungen,
 d. der Funktionsfähigkeit des Rechtswesens,
 e. der Funktionsfähigkeit von Volksvertretung, Regierung und Verwaltung des Bundes, der Länder und der Kommunen oder
-f. der Funktionsfähigkeit der Organe der Europäischen Union und internationaler Organisationen
-zwingend notwendig ist.
+f. der Funktionsfähigkeit der Organe der Europäischen Union und internationaler Organisationen zwingend notwendig ist.
 Die zwingende Notwendigkeit ist durch den Dienstherrn oder Arbeitgeber zu prüfen und schriftlich zu bescheinigen; diese Bescheinigung ist mitzuführen,
 3. die sich im Rahmen ihrer Tätigkeit als Mitarbeiterinnen und Mitarbeiter von Luft-, Schiffs-, Bahn- oder Busverkehrsunternehmen oder als Besatzung von Flugzeugen, Schiffen, Bahnen und Bussen außerhalb des Bundesgebiets aufgehalten haben,
 4. die regelmäßig die Bundesgrenze zwischen Wohnort und Arbeitsstätte überqueren (Ein- und Auspendler) oder für bis zu fünf Tage zwingend notwendig und unaufschiebbar beruflich veranlasst in das Bundesgebiet einreisen oder
@@ -248,11 +243,11 @@ Die Regelungen des Infektionsschutzgesetzes bleiben im Übrigen unberührt.
 Das Gesundheitsamt ist insbesondere befugt, die Absonderung nach § 18 Absatz 1 Satz 1 im Einzelfall vorzeitig zu beenden.
 
 § 22 Übergangsvorschrift
-(1) Für Personen, die sich aufgrund § 18 Absatz 1 Satz 1 der SARS-CoV-2-Eindämmungsmaßnahmenverordnung in der Fassung vom 2. April 2020 bereits in häuslicher Quarantäne befinden und die die Voraussetzungen einer Ausnahme nach § 19 Absatz 1 oder Absatz 3 erfüllen, entfällt die Verpflichtung zur häuslichen
-Quarantäne vorbehaltlich des Satz 2 mit sofortiger Wirkung.
+(1) Für Personen, die sich aufgrund § 18 Absatz 1 Satz 1 der SARS-CoV-2-Eindämmungsmaßnahmenverordnung in der Fassung vom 2. April 2020 bereits in häuslicher Quarantäne befinden und die die Voraussetzungen einer Ausnahme nach § 19 Absatz 1 oder Absatz 3 erfüllen, entfällt die Verpflichtung zur häuslichen Quarantäne vorbehaltlich des Satz 2 mit sofortiger Wirkung.
 Handelt es sich um eine Ausnahme nach § 19 Absatz 1 Nummer 2 ist die zwingende Notwendigkeit der Tätigkeit durch den Dienstherrn oder Arbeitgeber unverzüglich schriftlich zu bescheinigen und diese Bescheinigung mitzuführen.
 (2) Personen, die sich aufgrund § 18 Absatz 1 Satz 1 der SARS-CoV-2-Eindämmungsmaßnahmenverordnung in der Fassung vom 2. April 2020 bereits in häuslicher Quarantäne befinden und die die Voraussetzungen einer Ausnahme nach § 19 Absatz 2 erfüllen, können den Zeitraum, in dem sie sich bereits abgesondert haben, von dem in § 19 Absatz 2 vorgegeben Zeitraum von 14 Tagen abziehen.
-Für die verbleibende Zeit der Absonderung gelten die Vorgaben des § 19 Absatz 2 Satz 1. § 19 Absatz 2 Satz 2 und 3 finden Anwendung.
+Für die verbleibende Zeit der Absonderung gelten die Vorgaben des § 19 Absatz 2 Satz 1.
+§ 19 Absatz 2 Satz 2 und 3 finden Anwendung.
 (3) Auf Personen, die sich aufgrund § 18 Absatz 1 Satz 1 der SARS-CoV-2-Eindämmungsmaßnahmenverordnung in der Fassung vom 2. April 2020 bereits in häuslicher Quarantäne befinden und die nicht von den Bestimmungen in Absatz 1 oder 2 erfasst sind, findet § 19 Absatz 1 Satz 2 Anwendung.
 
 7. Teil
